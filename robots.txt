@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /lib/
+Disallow: /lib/js
+Disallow: /lib/js/forum.js
+Disallow: /lib/js/stylechooser.js
+Allow: /
